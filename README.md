@@ -1,16 +1,6 @@
-# plant_app
+# Flutter Plant App
 
-A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![video 08](https://user-images.githubusercontent.com/33403844/152975357-dfeae391-e6bf-4392-97d5-fce229e8869d.png)
